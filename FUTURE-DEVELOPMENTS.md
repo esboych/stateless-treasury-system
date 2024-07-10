@@ -1,8 +1,7 @@
----
 
-**Stateless Treasury System: Future Features and Improvements**
+## Future Features and Improvements
 
----
+
 
 **Introduction**
 
